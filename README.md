@@ -32,7 +32,7 @@ pretrained folder contains word2vec
 
 
 ## Result 
-![LSTM vs LSTM combine Beam Search](https://photos.app.goo.gl/L51uLJPEogx2M1Ce9)
+![LSTM vs LSTM combine Beam Search](Capture12.JPG)
 ![LSTM vs LSTM combine Beam Search in Vietnam image](https://photos.app.goo.gl/8dp7Jaq5VqV1rLBC6)
 ![BLEU on COCO](https://photos.app.goo.gl/zjYwC4CShtn32dkL9)
 
